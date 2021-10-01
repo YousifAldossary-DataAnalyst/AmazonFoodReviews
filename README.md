@@ -32,6 +32,6 @@ To determine whether a review is positive or negative and build a machine learni
     8. Summary
     9. Text
    - Methods:
-    * Finding the helpful rate and vote rate
-    * Investigate the score from highest to lowest
-    * Sorting words based on negative or positive with their cefficients respectively.
+    1. Finding the helpful rate and vote rate
+    2. Investigate the score from highest to lowest
+    3. Sorting words based on negative or positive with their cefficients respectively.
