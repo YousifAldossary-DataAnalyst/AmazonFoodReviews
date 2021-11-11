@@ -1,11 +1,14 @@
 # Amazon Food Reviews
 
 ## Summary:
-This is Kaggle Dataset and most of the coding was obtain from kaggle participant as I was completely lost on how to find specfic words.
+This is Kaggle Dataset and most of the coding was obtain from kaggle participant as I learned on how to use TF-IDF appropriately.
 I went through step by step to understand the findings. Later, after finishing the coding, I released I did not take notes because I was deeply focused on how the codes work.
 
 ## Context:
 The dataeet consist ~50,000 reviews of find food from amazon. About a 10 years period from Oct 1999 - Oct 2012.
+
+## Goal:
+Fidning TF-IDF related to good, ok and bad reviews
 
 ## Data include:
 Reviews from Oct 1999 - Oct 2012
